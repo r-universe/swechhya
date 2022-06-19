@@ -1,0 +1,10 @@
+[
+  {
+    "package": "excelR",
+    "oncran": true
+  },
+  {
+    "package": "shinyanimate",
+    "oncran": true
+  }
+]
