@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "excelR"]
 	path = excelR
 	url = https://github.com/swechhya/excelr
-	shallow = true
-	registered = true
 [submodule "shinyanimate"]
 	path = shinyanimate
 	url = https://github.com/swechhya/shinyanimate
-	shallow = true
-	registered = true
